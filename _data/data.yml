@@ -83,7 +83,7 @@ experiences:
 
     - role: Student
       time: 07/2019 - 10/2019
-      company: Epam System
+      company: Epam System, Lviv, Ukraine
       details: |
         Studied at the JAVA-LVIV SUMMER 2019 in the courses of the Epam University 
         programs. Learned Java Core and the most common tools, libraries, and 
@@ -96,9 +96,10 @@ projects:
     assignments:
       - title: TASKINATOR
         link: "https://github.com/yunusQirimli/Taskinator"
-        tagline: "This is my training application the case of which is to help to manage your projects. 
+        tagline: "is my training application the case of which is to help to manage your projects. 
         This training application generated using JHipster. JHipster is a development 
-        platform to generate, develop and deploy Spring Boot + Angular / React / Vue Web applications and Spring microservices"
+        platform to generate, develop and deploy Spring Boot + Angular / React / Vue Web 
+        applications and Spring microservices."
         
 skills:
     title: Skills &amp; Proficiency
