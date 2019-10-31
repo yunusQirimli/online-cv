@@ -7,38 +7,44 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Yunus Yunusov
+    tagline: Java Junior Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: yunus.yunusov@yahoo.com
+    phone: +380 63 211 46 86
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: yunus-yunusov
+    github: yunusQirimli
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: yunusQirimli
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Intermediate Strong
+
+      - idiom: Turkish
+        level: Upper Intermediate
+
+      - idiom: Crimeantatar
+        level: Native
+        
+      - idiom: Ukrainian
+        level: Native
+        
+      - idiom: Russian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Communicate with people of different nationalities and cultures
         link:
 
-      - item: Snowboarding
+      - item: Video games
         link:
 
       - item: Cooking
@@ -47,81 +53,48 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I’m a junior developer and I would like to start a career as 
+      Junior Java Developer in EPAM company. I am ready to work on myself to 
+      improve my skills and work hard to have career growth. 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor degree in Computer Science
+      university: Lviv Polytechnic National University 
+      time: 2016 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+         Institute of Computer Science and Information Technologies 
+         CAD (Computer-Aided Design) department         
+          
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Participant of training
+      time: 10/2017 - 12/2017
+      company: British council, Kyiv, Ukraine 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Participated in project management training within the 
+        framework of the program "Active citizens" from the British council. 
+        Learned some basics of the SCRUM framework. 
 
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Intern Java Developer
+      time: 01/2019 - 02/2019
+      company: YUZUM, Simferopol, Ukraine 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Interned in the “YUZUM” company as a web developer. Has developed a 
+        “TASKINATOR” training project via HTML/CSS, AngularJS frontend and 
+        Java (Spring) backend. GitHub repository of training project. 
 
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Student
+      time: 07/2019 - 10/2019
+      company: Epam System
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Studied at the JAVA-LVIV SUMMER 2019 in the courses of the Epam University 
+        programs. Learned Java Core and the most common tools, libraries, and 
+        frameworks needed for Java developers.
 
           - Bullet point
           - Bullet point
@@ -154,47 +127,57 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java core
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Spring core
+        level: 60%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: JDBC
         level: 60%
+
+      - name: JPA
+        level: 50%
+        
+      - name: Hibernate
+        level: 50%
+        
+      - name: Git
+        level: 70%
+        
+      - name: Maven
+        level: 70%
+        
+      - name: Log4j
+        level: 70%
+        
+      - name: JUnit
+        level: 65%
+        
+      - name: JSON
+        level: 70%
+        
+      - name: XML
+        level: 75%
+        
+      - name: YAML
+        level: 55%
+        
+      - name: REST
+        level: 60%
+        
+      - name: Servlets
+        level: 50%
+        
+      - name: MySQL
+        level: 69%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
