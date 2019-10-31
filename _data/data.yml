@@ -9,12 +9,11 @@ sidebar:
     # Profile information
     name: Yunus Yunusov
     tagline: Java Junior Developer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yunus.yunusov@yahoo.com
     phone: +380 63 211 46 86
-    website: blog.webjeda.com #do not add http://
     linkedin: yunus-yunusov
     github: yunusQirimli
     gitlab:
