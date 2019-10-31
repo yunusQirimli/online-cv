@@ -117,9 +117,6 @@ skills:
       - name: JDBC
         level: 40%
 
-      - name: JPA
-        level: 30%
-        
       - name: Hibernate
         level: 40%
         
