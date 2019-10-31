@@ -79,7 +79,7 @@ experiences:
       details: |
         Interned in the “YUZUM” company as a web developer. Has developed a 
         “TASKINATOR” training project via HTML/CSS, AngularJS frontend and 
-        Java (Spring) backend. GitHub repository of training project. 
+        Java (Spring) backend.
 
     - role: Student
       time: 07/2019 - 10/2019
@@ -89,62 +89,17 @@ experiences:
         programs. Learned Java Core and the most common tools, libraries, and 
         frameworks needed for Java developers.
 
-#projects:
- #   title: Projects
-  #  intro: >
-   #   You can list your side projects or open source libraries in this
-    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-     # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#
- #   assignments:
-  #    - title: Velocity
-   #     link: "#hook"
-    #    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
- #     - title: DevStudio
-  #      link: "#"
-   #     tagline: "A responsive website template designed to help web developers/designers market their services."
-#
- #     - title: Tempo
-  #      link: "#"
-   #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
- #     - title: Atom
-  #      link: "#"
-   #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
- #     - title: Delta
-  #      link: "#"
-   #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: TASKINATOR
+        link: "https://github.com/yunusQirimli/Taskinator"
+        tagline: "This is my training application the case of which is to help to manage your projects. 
+        This training application generated using JHipster. JHipster is a development 
+        platform to generate, develop and deploy Spring Boot + Angular / React / Vue Web applications and Spring microservices"
+        
 skills:
     title: Skills &amp; Proficiency
 
@@ -196,6 +151,10 @@ skills:
         
       - name: MySQL
         level: 55%
+        
+      - name: Docker
+        level: 37%
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
