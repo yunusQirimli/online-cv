@@ -109,28 +109,28 @@ skills:
         level: 88%
 
       - name: Spring core
-        level: 35%
+        level: 20%
 
       - name: HTML5 & CSS
         level: 55%
 
       - name: JDBC
-        level: 40%
+        level: 20%
 
       - name: Hibernate
-        level: 40%
+        level: 20%
         
       - name: Git
         level: 70%
         
       - name: Maven
-        level: 58%
+        level: 45%
         
       - name: Log4j
         level: 45%
         
       - name: JUnit
-        level: 40%
+        level: 35%
         
       - name: JSON
         level: 65%
@@ -142,16 +142,16 @@ skills:
         level: 40%
         
       - name: REST
-        level: 40%
+        level: 30%
         
       - name: Servlets
-        level: 35%
+        level: 20%
         
       - name: MySQL
         level: 55%
         
       - name: Docker
-        level: 37%
+        level: 30%
         
 
 footer: >
